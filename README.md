@@ -31,3 +31,7 @@ Construção de mapas e gráficos para análise de vendas
 
 📂 Dataset
 O conjunto de dados foi fornecido pelo curso da DSA - Data Science Academy e simula uma empresa com atuação internacional, contendo informações de vendas, categorias de produtos, países e prioridades de entrega.
+
+
+![dashboard-vendas](https://github.com/user-attachments/assets/0068b285-07e9-498d-8cf3-7317a168d852)
+
